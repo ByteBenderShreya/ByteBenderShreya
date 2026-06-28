@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Shreya%20Raj%20Soni&fontSize=50&fontColor=38bdf8&animation=twinkling&fontAlignY=38" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=2nd+Year+B.Tech+CSE+Student;DSA+%7C+Java+%7C+Full-Stack+Learner;Building+Real-World+Projects;Always+Learning+New+Tech" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Tech+Enthutiast;DSA+%7C+Java+%7C+Full-Stack+Learner;Building+Real-World+Projects;Always+Learning+New+Tech" />
 
 
 ### Hey, It's Shreya! 👋
@@ -31,6 +31,6 @@ Currently learning **Full-Stack Development** with Java as my main language. I a
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-raj-soni-138a54379?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
-[[Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyarajsoni8604@gmail.com)
+[[Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](shreyarajsoni8604@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=100&section=footer" />
