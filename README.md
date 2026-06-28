@@ -39,6 +39,5 @@ Currently learning **Full-Stack Development** with Java as my main language. I a
 
 
 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=100&section=footer" />
 
