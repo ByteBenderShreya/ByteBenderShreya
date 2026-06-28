@@ -1,7 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Welcome%20to%20my%20Profile&fontSize=55&fontColor=38bdf8&animation=fadeIn" />
-
-<img align="left" src="./Shreya.jpeg" width="130" style="border-radius:50%; margin-left:15px; margin-top:5px">
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=150&section=header&text=Shreya%20Raj%20Soni&fontSize=45&fontColor=38bdf8&animation=fadeIn&fontAlignY=38" />
 ### Hey, It's Shreya! 👋
 
 I'm a 2nd Year B.Tech CSE student, focused on Data Structures & Algorithms and building real-world projects.
@@ -21,7 +18,12 @@ I work with Java, HTML, CSS, JavaScript, and I'm currently learning full-stack d
 - **Learning** - Full-stack development
 - Building production-level web projects
 - Writing clean, efficient code
+- 
+### 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=ByteBenderShreya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ByteBenderShreya&theme=tokyonight&hide_border=true" width="48%" />
 
+  
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-raj-soni-138a54379?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ByteBenderShreya)
+[Email] (mailto:shreyarajsoni8604@gmail.com)
