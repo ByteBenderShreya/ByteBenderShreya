@@ -27,12 +27,13 @@ Currently learning **Full-Stack Development** with Java as my main language. I a
 <img src="https://github-readme-stats.vercel.app/api?username=ByteBenderShreya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByteBenderShreya&theme=tokyonight&hide_border=true" width="48%" />
 
-[[Explore My Work](https://img.shields.io/badge/Explore_My_Work-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ByteBenderShreya?tab=repositories)
+[![Explore My Work](https://img.shields.io/badge/Explore_My_Work-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ByteBenderShreya?tab=repositories)
 
   
 ### 🌐 Social Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-raj-soni-138a54379?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyarajsoni8604@gmail.com)][!Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_xin.jarunee?igsh=MTg1bWNnMjUxMm9tMQ==)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyarajsoni8604@gmail.com)]
+[!Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_xin.jarunee?igsh=MTg1bWNnMjUxMm9tMQ==)
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=100&section=footer" />
