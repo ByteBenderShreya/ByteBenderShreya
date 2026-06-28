@@ -2,12 +2,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=2nd+Year+B.Tech+CSE+Student;DSA+%7C+Java+%7C+Full-Stack+Learner;Building+Real-World+Projects;Always+Learning+New+Tech" />
 
-<img  width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b, 100:0f172a&height=30&section=footer&text=&fontSize=0" />
+
 ### Hey, It's Shreya! 👋
 
-I'm a 2nd Year B.Tech CSE student, focused on Data Structures & Algorithms and building real-world projects.
+I'm a 2nd Year B.Tech CSE student @ AKTU, focused on **Data Structures & Algorithms** and building real-world projects.
 
-I work with Java, HTML, CSS, JavaScript, and I'm currently learning full-stack development. I also use C++ for college coursework.
+Currently learning **Full-Stack Development** with Java as my main language. I also use C++ for college coursework.
 
 ### 🚀 Featured Work
 - **DSA Notes Repository**:  Academics Weekly C++ Modules for 2nd Year | [Link](https://github.com/ByteBenderShreya/2-_Yr_Weekly_Module)
@@ -22,7 +22,7 @@ I work with Java, HTML, CSS, JavaScript, and I'm currently learning full-stack d
 - **Learning** - Full-stack development
 - Building production-level web projects
 - Writing clean, efficient code
-- 
+  
 ### 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=ByteBenderShreya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByteBenderShreya&theme=tokyonight&hide_border=true" width="48%" />
@@ -31,6 +31,6 @@ I work with Java, HTML, CSS, JavaScript, and I'm currently learning full-stack d
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-raj-soni-138a54379?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
-[Email] (shreyarajsoni8604@gmail.com)
+[[Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyarajsoni8604@gmail.com)
 
-<img  width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b, 100:0f172a&height=30&section=footer&text=&fontSize=0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=100&section=footer" />
