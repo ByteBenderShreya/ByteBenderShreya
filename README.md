@@ -26,4 +26,5 @@ I work with Java, HTML, CSS, JavaScript, and I'm currently learning full-stack d
   
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-raj-soni-138a54379?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[Email] (mailto:shreyarajsoni8604@gmail.com)
+
+[Email] (shreyarajsoni8604@gmail.com)
