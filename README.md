@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi%20I'm%20Shreya&fontSize=70&fontColor=ffffff&animation=fadeIn" />
 
-<img align="right" src="./shreya.jpeg" width="180" style="border-radius:50%; margin-left:10px; margin-top:10px">
+<img align="left" src="./Shreya.jpeg" width="180" style="border-radius:50%; margin-left:10px; margin-top:10px">
 
 ### Hi, I'm Shreya 👋
 I'm a 2nd Year B.Tech CSE student, focused on Data Structures & Algorithms and building real-world projects.
