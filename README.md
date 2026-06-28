@@ -1,4 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=150&section=header&text=Shreya%20Raj%20Soni&fontSize=45&fontColor=38bdf8&animation=fadeIn&fontAlignY=38" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=2nd+Year+B.Tech+CSE+Student;DSA+%7C+Java+%7C+Full-Stack+Learner;Building+Real-World+Projects;Always+Learning+New+Tech" />
+
+<img  width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b, 100:0f172a&height=30&section=footer&text=&fontSize=0" />
 ### Hey, It's Shreya! 👋
 
 I'm a 2nd Year B.Tech CSE student, focused on Data Structures & Algorithms and building real-world projects.
@@ -28,3 +32,5 @@ I work with Java, HTML, CSS, JavaScript, and I'm currently learning full-stack d
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-raj-soni-138a54379?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 [Email] (shreyarajsoni8604@gmail.com)
+
+<img  width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b, 100:0f172a&height=30&section=footer&text=&fontSize=0" />
